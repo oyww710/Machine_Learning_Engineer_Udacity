@@ -11,3 +11,7 @@ https://tanzu.vmware.com/content/pivotal-engineering-journal
 https://medium.com/uk-hydrographic-office/test-driven-development-is-essential-for-good-data-science-heres-why-db7975a03a44
 
 https://docs.python-guide.org/writing/tests/
+
+https://github.com/lyst/MakingLyst/tree/master/code-reviews
+
+https://www.kevinlondon.com/2015/05/05/code-review-best-practices.html
